@@ -1,0 +1,46 @@
+body {
+    background-color: thistle;
+}
+
+p {
+    color: white;
+    background-color: violet;
+    font-size: 26px;
+    padding: 20px 5px 30px 100px;
+    margin: 15px;
+    text-align: left;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: right;
+}
+
+#info {
+    background-color: aqua;
+}
+
+#isharelenmish {
+    background-color: red;
+}
+
+li {
+    color: deeppink;
+    background-color: black;    
+}
+
+#li-misir, #li-gunel, #li-yaver, #li-teymur, #li-kamil, #li-vasif  {
+    color: azure;
+}
+
+.yuksek-bal {
+    color: rgb(73, 110, 17);
+}
+
+.qirmizi-fon {
+    background-color: red;
+}
+
+p.menim-classim {
+    font-size: 50px;
+}
